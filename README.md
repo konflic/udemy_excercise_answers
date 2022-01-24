@@ -1,2 +1,3 @@
-# udemy_excercise_answers
-This repo is for Udemy course excercise answers.
+# Udemy answers
+
+Some answers for Udemy course https://www.udemy.com/course/python-best-start/
